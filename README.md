@@ -11,18 +11,9 @@
 
 # 📸 Preview Aplikasi
 
-*(Tambahkan screenshot dashboard di sini)*
+[alt text](image.png)
 
-```
-docs/
- ├── dashboard.png
- ├── rooms.png
- ├── payments.png
-```
 
-Contoh tampilan:
-
-![Dashboard](docs/dashboard.png)
 
 ---
 
