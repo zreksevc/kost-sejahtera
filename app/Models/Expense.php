@@ -1,0 +1,17 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class Expense extends Model
+{
+    protected $fillable = [
+        'date', 'description', 'category', 'amount', 'notes',
+    ];
+
+    protected $casts = [
+        'date'   => 'date',
+        'amount' => 'integer',
+    ];
+}
