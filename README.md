@@ -11,9 +11,7 @@
 
 # 📸 Preview Aplikasi
 
-[alt text](image.png)
-
-
+![Dashboard](image.png)
 
 ---
 
